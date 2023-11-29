@@ -39,8 +39,3 @@ Contributions are always welcome!
 
 You can send me pull requests.
 
-
-## Feedback
-
-If you have any feedback, please reach out to me at pankajbeniwal3112@gmail.com
-
